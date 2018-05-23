@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A9E35048-E8B5-1E0E-74D7-08BCF44D2222}") = "pick_me_up", "Assembly-CSharp.csproj", "{8BD18631-46B6-BC7D-8491-F779B3326713}"
+EndProject
+Project("{A9E35048-E8B5-1E0E-74D7-08BCF44D2222}") = "pick_me_up", "Assembly-UnityScript.unityproj", "{E93DFCB9-61B4-8EF7-D431-5B6015E0E34B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BD18631-46B6-BC7D-8491-F779B3326713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD18631-46B6-BC7D-8491-F779B3326713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD18631-46B6-BC7D-8491-F779B3326713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD18631-46B6-BC7D-8491-F779B3326713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E93DFCB9-61B4-8EF7-D431-5B6015E0E34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93DFCB9-61B4-8EF7-D431-5B6015E0E34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93DFCB9-61B4-8EF7-D431-5B6015E0E34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93DFCB9-61B4-8EF7-D431-5B6015E0E34B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

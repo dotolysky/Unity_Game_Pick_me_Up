@@ -1,0 +1,163 @@
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\kbj\Downloads\CIT_Term_Project\GameFile\pick_me_up_play_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\kbj\Downloads\CIT_Term_Project\GameFile\pick_me_up_play_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\kbj\Downloads\CIT_Term_Project\GameFile\pick_me_up_play_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\kbj\Downloads\CIT_Term_Project\GameFile\pick_me_up_play_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\kbj\Downloads\CIT_Term_Project\GameFile\pick_me_up_play_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\kbj\Downloads\CIT_Term_Project\GameFile\pick_me_up_play_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\kbj\Downloads\CIT_Term_Project\GameFile\pick_me_up_play_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\kbj\Downloads\CIT_Term_Project\GameFile\pick_me_up_play_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\kbj\Downloads\CIT_Term_Project\GameFile\pick_me_up_play_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\kbj\Downloads\CIT_Term_Project\GameFile\pick_me_up_play_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\kbj\Downloads\CIT_Term_Project\GameFile\pick_me_up_play_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\kbj\Downloads\CIT_Term_Project\GameFile\pick_me_up_play_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.056 seconds
+Platform assembly: C:\Users\kbj\Downloads\CIT_Term_Project\GameFile\pick_me_up_play_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\kbj\Downloads\CIT_Term_Project\GameFile\pick_me_up_play_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 2970x1680 at 0,-134
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.627488 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4d80 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.810606 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 207.
+Total: 0.143077 ms (FindLiveObjects: 0.023097 ms CreateObjectMapping: 0.007057 ms MarkObjects: 0.101373 ms  DeleteObjects: 0.011228 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.918735 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 6039.
+Total: 8.222155 ms (FindLiveObjects: 0.442385 ms CreateObjectMapping: 0.314065 ms MarkObjects: 0.676892 ms  DeleteObjects: 6.787848 ms)
+
+(1067.0, 819.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+충돌
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
